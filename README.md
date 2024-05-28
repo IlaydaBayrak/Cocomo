@@ -30,19 +30,19 @@ Ara model, üç aşamadan oluşur:
 
 
 ## Temel Model
-![Ana Sayfa](AraYüzTasarımı/TemelModel.png)
+![Temel Model](AraYüzTasarımı/TemelModel.png)
 
 
 ## Ara Model
 
 #### Sayfa 1
-![Ana Sayfa](AraYüzTasarımı/AraModelSayfa1.png)
+![Ara Model](AraYüzTasarımı/AraModelSayfa1.png)
 
 #### Sayfa 2
-![Ana Sayfa](AraYüzTasarımı/AraModelSayfa2.png)
+![Ara Model](AraYüzTasarımı/AraModelSayfa2.png)
 
 #### Sayfa 3
-![Ana Sayfa](AraYüzTasarımı/AraModelSayfa3.png)
+![Ara Model](AraYüzTasarımı/AraModelSayfa3.png)
 
 #### Sayfa 4
-![Ana Sayfa](AraYüzTasarımı/AraModelSayfa4.png)
+![Ara Model](AraYüzTasarımı/AraModelSayfa4.png)
