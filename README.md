@@ -24,3 +24,25 @@ Ara model, üç aşamadan oluşur:
 1. *İş Gücü Hesaplama:* Projenin tamamlanması için gereken iş gücü miktarının hesaplanması.
 2. *Maliyet Çarpanı Hesaplama:* Proje özelliklerine göre maliyet çarpanlarının belirlenmesi.
 3. *İlk İş Gücü Değerini Düzeltme:* Hesaplanan ilk iş gücü değerinin, projenin özelliklerine ve koşullarına göre düzeltilmesi.
+
+## Giriş Ekranı
+![Ana Sayfa](AraYüzTasarımı/AnaSayfa.png)
+
+
+## Temel Model
+![Ana Sayfa](AraYüzTasarımı/TemelModel.png)
+
+
+## Ara Model
+
+#### Sayfa 1
+![Ana Sayfa](AraYüzTasarımı/AraModelSayfa1.png)
+
+#### Sayfa 2
+![Ana Sayfa](AraYüzTasarımı/AraModelSayfa2.png)
+
+#### Sayfa 3
+![Ana Sayfa](AraYüzTasarımı/AraModelSayfa3.png)
+
+#### Sayfa 4
+![Ana Sayfa](AraYüzTasarımı/AraModelSayfa4.png)
